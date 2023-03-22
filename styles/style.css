@@ -44712,9 +44712,7 @@ pre.paddle-popup-pre {
     right: 0;
     bottom: 0;
     left: 0;
-    background: white
-        /*savepage-url=https://cdn.paddle.com/paddle/assets/images/loading.gif*/
-        url() no-repeat center center;
+    background: white url() no-repeat center center;
     background-size: 4rem;
     opacity: 0.8;
 }
