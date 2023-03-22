@@ -2,12 +2,10 @@
 <html lang="en">
 
 <head>
-    <link rel="icon"
-        data-savepage-href="https://demo.themesberg.com/neumorphism-ui/assets/img/favicon/favicon-32x32.png" href="">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>jr.devops engineer & swift, swiftui ios / javascript, node.js backend - developer — yury mid — pieceowater
     </title>
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <!-- <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"> -->
 
     <link rel="stylesheet" href="./styles/style.css">
     <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
@@ -25,10 +23,7 @@
                     <div class="navbar-collapse-header">
                         <div class="row">
                             <div class="col-6 collapse-brand"><a
-                                    href="https://demo.themesberg.com/neumorphism-ui/index.html"
-                                    class="navbar-brand shadow-soft py-2 px-3 rounded border border-light"><img
-                                        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzkiIGhlaWdodD0iOTQiIHZpZXdCb3g9IjAgMCA3OSA5NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcwLjMgMC42OTk5OTVDNzIuNzI2NyAwLjY5OTk5NSA3NC42MzMzIDEuNDggNzYuMDIgMy4wNEM3Ny40OTMzIDQuNTEzMzMgNzguMjMgNi41MDY2NiA3OC4yMyA5LjAyVjg1LjMzQzc4LjIzIDg3Ljg0MzMgNzcuNDkzMyA4OS44OCA3Ni4wMiA5MS40NEM3NC41NDY3IDkzIDcyLjY0IDkzLjc4IDcwLjMgOTMuNzhDNjcuNTI2NyA5My43OCA2NS40MDMzIDkyLjc4MzMgNjMuOTMgOTAuNzlMMTYuNDggMjkuMDRWODUuMzNDMTYuNDggODcuODQzMyAxNS43ODY3IDg5Ljg4IDE0LjQgOTEuNDRDMTMuMDEzMyA5MyAxMS4xMDY3IDkzLjc4IDguNjggOTMuNzhDNi4yNTMzMyA5My43OCA0LjM0NjY3IDkzIDIuOTYgOTEuNDRDMS41NzMzMyA4OS44OCAwLjg4MDAwMSA4Ny44NDMzIDAuODgwMDAxIDg1LjMzVjkuMDJDMC44ODAwMDEgNi41MDY2NiAxLjYxNjY3IDQuNTEzMzMgMy4wOSAzLjA0QzQuNTYzMzMgMS40OCA2LjUxMzMzIDAuNjk5OTk1IDguOTQgMC42OTk5OTVDMTEuNjI2NyAwLjY5OTk5NSAxMy43MDY3IDEuNjk2NjYgMTUuMTggMy42OUw2Mi41IDY1LjE4VjkuMDJDNjIuNSA2LjUwNjY2IDYzLjE5MzMgNC41MTMzMyA2NC41OCAzLjA0QzY2LjA1MzMgMS40OCA2Ny45NiAwLjY5OTk5NSA3MC4zIDAuNjk5OTk1WiIgZmlsbD0iIzMxMzQ0QiIvPgo8L3N2Zz4K"
-                                        alt="Themesberg logo"></a></div>
+                                    class="shadow-soft py-2 px-3 rounded border border-light"><span>./mid</span></a></div>
                             <div class="col-6 collapse-close"><a href="#navbar_global" class="fas fa-times"
                                     data-toggle="collapse" data-target="#navbar_global" aria-controls="navbar_global"
                                     aria-expanded="false" title="close" aria-label="Toggle navigation"></a></div>
@@ -37,13 +32,14 @@
                     <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
                         <span class="nav-item "><a href="#hardSkills" class="nav-link"><span
                                     class="nav-link-inner-text">hard-skills</span></a></span>
-                        <span class="nav-item "><a href="#aboutMe" class="nav-link"><span class="nav-link-inner-text">personal
+                        <span class="nav-item "><a href="#aboutMe" class="nav-link"><span
+                                    class="nav-link-inner-text">personal
                                     info</span></a></span>
 
                         <li class="nav-item dropdown"><a href="#footer" class="nav-link" data-toggle="dropdown"><span
                                     class="nav-link-inner-text">contacts</span> <span
                                     class="fas fa-angle-down nav-link-arrow ml-2"></span></a>
-                            <div class="dropdown-menu dropdown-menu-lg">
+                            <div id="contactsDM" class="dropdown-menu dropdown-menu-lg">
                                 <div class="col-auto px-0" data-dropdown-content="">
                                     <div class="list-group list-group-flush">
 
@@ -83,9 +79,11 @@
                             class="far fa-paper-plane mr-2"></i>hire me</a>
                     <a href="./assets/resume.pdf" target="_blank" class="btn btn-primary"><i class="fas fa-book"></i>
                         resume.pdf</a>
-                    <button class="navbar-toggler ml-2" type="button" data-toggle="collapse"
+                    <button id="navBtn" class="navbar-toggler ml-2" type="button" data-toggle="collapse"
                         data-target="#navbar_global" aria-controls="navbar_global" aria-expanded="false"
                         aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+
+
                 </div>
             </div>
         </nav>
@@ -180,51 +178,60 @@
                     </div>
                 </div>
             </div>
-        </section>
-
-        <!-- <section class="section section-lg pt-0">
             <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <div class="card bg-primary shadow-soft border-light p-4">
-                            <div class="row">
-                                <div class="col-12 col-lg-4 px-md-0 mb-4 mb-lg-0">
-                                    <div class="card-body text-center bg-primary py-5">
-                                        <div class="icon icon-shape shadow-inset border-light rounded-circle mb-3"><span
-                                                class="far fa-eye"></span></div>
-                                        <h2 class="h4 mr-2">Audience</h2>
-                                        <p class="mb-0">At Themesberg, we use human, brand, and cultural insights to
-                                            unlock strategic
-                                            business opportunities for clients.</p>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-lg-4 px-md-0 mb-4 mb-lg-0">
-                                    <div class="card-body text-center bg-primary py-5">
-                                        <div class="icon icon-shape shadow-inset border-light rounded-circle mb-3"><span
-                                                class="fas fa-medal"></span></div>
-                                        <h2 class="h4 mr-2">Branding</h2>
-                                        <p class="mb-0">Despite being cautioned not to judge a book by its cover, we all
-                                            do it every day. We
-                                            making your site looks better.</p>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-lg-4 px-md-0">
-                                    <div class="card-body text-center bg-primary py-5">
-                                        <div class="icon icon-shape shadow-inset border-light rounded-circle mb-3"><span
-                                                class="fas fa-puzzle-piece"></span></div>
-                                        <h2 class="h4 mr-2">Production</h2>
-                                        <p class="mb-0">Today, truly creative sells. Get innovative ideas and polished
-                                            finish pieces from
-                                            our creative agency.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="row justify-content-center mb-5">
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        node.js</a>
+
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        docker</a>
+
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        ci/cd</a>
+
+
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        linux</a>
+
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        github actions</a>
+
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        yaml</a>
+
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        git</a>
+
+                    <a href="#" class="btn btn-primary m-3">
+                        <span class="mr-1">
+                            <span class="fas fa-cog"></span>
+                        </span>
+                        bash</a>
                 </div>
             </div>
-        </section> -->
-
+        </section>
+        
         <!-- about me -->
         <section id="aboutMe" class="section section-lg pt-0">
             <div class="container">
@@ -251,36 +258,53 @@
             </div>
         </section>
 
-        <!-- <section class="section section-lg pt-0">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-4 text-center">
-                        <div class="icon-box mb-4">
-                            <div class="icon icon-shape shadow-soft border border-light rounded-circle mb-4"><span
-                                    class="far fa-smile-beam"></span></div>
-                            <h3 class="h5">Team Members</h3>
-                        </div>
+        <!-- experience -->
+        <section id="experience" class="section section-lg pt-0">
+            <div class="row align-items-center justify-content-around">
+                <div class="container">
+                    <div class="row justify-content-center mb-5">
+                        <h2 class="h1 mb-4">experience</h2>
                     </div>
-                    <div class="col-12 col-sm-4 col-lg-4 text-center">
-                        <div class="icon-box mb-4">
-                            <div class="icon icon-shape shadow-soft border border-light rounded-circle mb-4"><span
-                                    class="far fa-eye"></span></div>
-                            <h3 class="h5">Projects Published</h3><span
-                                class="counter display-3 text-gray d-block">2400</span>
+                    <div class="row align-items-top justify-content-around m-0 ">
+                        <div>
+                            <h2 class="h2 mb-4"><i>«iceberg group»</i></h2>
+                            <div class="progress-wrapper">
+                                <div class="progress-info">
+                                    <div class="progress-percentage"><span>jun 2021 → now</span></div>
+                                </div>
+                                <div class="progress">
+                                    <div class="progress-bar bg-dark" role="progressbar" aria-valuenow="60"
+                                        aria-valuemin="0" aria-valuemax="100"
+                                        style="width: 80%; animation: 3s ease 0s 1 normal none running animate-positive; opacity: 1;">
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-12 col-sm-4 col-lg-4 text-center">
-                        <div class="icon-box mb-4">
-                            <div class="icon icon-shape shadow-soft border border-light rounded-circle mb-4"><span
-                                    class="fas fa-globe-europe"></span></div>
-                            <h3 class="h5">Countries</h3><span class="counter display-3 text-gray d-block">80</span>
+                        <div class="col-md-5 col-xl-5 m-3" style="border-left: 1px solid #31344b;">
+                            <div class="toast fade show" role="alert" aria-live="assertive" aria-atomic="true">
+                                <div class="toast-header toast-body text-dark"><strong class="mr-auto ml-2">devops
+                                        engineer, developer, teamlead</strong></div>
+                                <div class="toast-header justify-content-between px-4"><small
+                                        class="text-gray">almaty</small></div>
+                            </div>
+                            <div>
+                                <div class="mb-3"><span class="h6">implementation of devops methodology</span></div>
+                                <ul>
+                                    <li>project architecture design</li>
+                                    <li>building the internal infrastructure of the department and work processes, ci/cd
+                                    </li>
+                                    <li>ensuring the deployment of the company's projects</li>
+                                    <li>project viability support and monitoring</li>
+                                    <li>automation of development and deployment</li>
+                                    <li>automation of development and deployment</li>
+
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section> -->
-
-
+        </section>
     </main>
     <footer id="footer" class="d-flex pb-5 pt-6 pt-md-7 border-top border-light bg-primary">
         <div class="container">
@@ -320,7 +344,8 @@
                     <ul class="footer-links list-unstyled mt-2">
                         <li class="mb-1"><a class="p-2" href="#hardSkills">hard-skills</a></li>
                         <li class="mb-1"><a class="p-2" href="#aboutMe">personal info</a></li>
-                        <li><a class="p-2" href="#footer">contacts <span class="badge badge-gray ml-2">telegram</span></a>
+                        <li><a class="p-2" href="https://t.me/yury_mid">contacts <span
+                                    class="badge badge-gray ml-2">telegram</span></a>
                         </li>
                     </ul>
                 </div>
@@ -343,8 +368,7 @@
             </div>
             <hr class="my-5">
             <div class="row">
-                <div class="col"><a href="https://themesberg.com/" target="_blank"
-                        class="d-flex justify-content-center"><img height="25"></a>
+                <div class="col"><a href="" target="_blank" class="d-flex justify-content-center"><img height="25"></a>
                     <div class="d-flex text-center justify-content-center align-items-center" role="contentinfo">
                         <p class="font-weight-normal font-small mb-0">mid © pieceowater <span
                                 class="current-year">2023</span>.
@@ -353,6 +377,23 @@
             </div>
         </div>
     </footer>
+    <script>
+        document.querySelectorAll('[data-toggle="collapse"]').forEach(e => {
+            e.addEventListener('click', function (event) {
+                if (event.currentTarget.tagName === "A") {
+                    event.preventDefault();
+                }
+
+                var navBtn = this
+                var data = navBtn.dataset;
+                document.querySelector(data.target).classList.toggle('show')
+                document.querySelector('body').classList.toggle('overflow-hidden')
+                document.querySelector('#contactsDM').classList.toggle('show')
+            })
+        })
+
+
+    </script>
 </body>
 
 </html>

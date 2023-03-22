@@ -6683,8 +6683,8 @@ pre code {
 .row {
     display: flex;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px
+    /* margin-right: -15px; */
+    /* margin-left: -15px */
 }
 
 .no-gutters {
@@ -44717,6 +44717,10 @@ pre.paddle-popup-pre {
         url() no-repeat center center;
     background-size: 4rem;
     opacity: 0.8;
+}
+
+.overflow-hidden {
+    overflow: hidden !important;
 }
 
 @media only screen and (max-width: 995px) {
