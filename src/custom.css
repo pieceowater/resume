@@ -1,0 +1,108 @@
+/* Dark theme */
+html[data-theme="dark"] body {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+html[data-theme="dark"] .header-colorful-bg {
+    background-color: #333333;
+}
+
+
+/* checkbox */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+    margin-bottom: 0;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #cccccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 20px;
+    box-shadow: inset 2px 2px 5px #b8b9be, inset -3px -3px 7px #fff;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 2px;
+    bottom: 2px;
+    background-color: #ffffff;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 50%;
+    box-shadow: inset 2px 2px 5px #fff, inset -3px -3px 7px #e6e6e6;
+}
+
+input:checked + .slider {
+    background-color: #2196F3;
+    box-shadow: inset 2px 2px 5px #3f698a, inset -3px -3px 7px #3b86c2;
+}
+
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+}
+
+
+/* select */
+
+.select-container {
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+}
+
+select {
+    width: 40px;
+    height: 35px;
+    padding: 0 10px;
+    background-color: #e6e7ee;
+    border: none;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 10px #c0c0c0, -5px -5px 10px #ffffff;
+    box-shadow: 5px 5px 10px #c0c0c0, -5px -5px 10px #ffffff;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+select:focus {
+    -webkit-box-shadow: 5px 5px 10px #c0c0c0, -5px -5px 10px #ffffff, inset 1px 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 5px 5px 10px #c0c0c0, -5px -5px 10px #ffffff;
+}
+
+option {
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+option:hover {
+    background-color: #e2e2e2;
+    color: #333;
+}
