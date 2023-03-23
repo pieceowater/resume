@@ -1,12 +1,12 @@
 /* Dark theme */
-html[data-theme="dark"] body {
-    background-color: #333333;
-    color: #ffffff;
-}
+/*html[data-theme="dark"] body {*/
+/*    background-color: #333333;*/
+/*    color: #ffffff;*/
+/*}*/
 
-html[data-theme="dark"] .header-colorful-bg {
-    background-color: #333333;
-}
+/*html[data-theme="dark"] .header-colorful-bg {*/
+/*    background-color: #333333;*/
+/*}*/
 
 
 /* checkbox */
