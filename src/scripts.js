@@ -120,7 +120,7 @@ const translation = {
         "спасибо":"that's it!",
 
         "thanks for watching!":"thanks for watching!",
-        "за внимание!":"за внимание!",
+        "за внимание!":"thanks for watching!",
 
         "stay in touch with:":"stay in touch with:",
         "связаться:":"stay in touch with:",
@@ -140,14 +140,6 @@ const translation = {
         "map":"map",
         "меню":"map",
 
-        "mail me":"mail me",
-        "оставить почту":"mail me",
-
-        "i can't guarantee that I'll see. but if i see i'll contact you": "i can't guarantee that I'll see. but if i see i'll contact you",
-        "не гарнтирую, что увижу. но, если увижу - свяжусь с вами":"i can't guarantee that I'll see. but if i see i'll contact you",
-
-        "i’ll never share your details.":"i’ll never share your details.",
-        "":"i’ll never share your details.",
     },
     2: {
         "hard-skills": "навыки",
@@ -178,10 +170,7 @@ const translation = {
         "light":"светлый",
         "dark":"темный",
         "language":"язык",
-        "map":"меню",
-        "mail me":"оставить почту",
-        "i can't guarantee that I'll see. but if i see i'll contact you":"не гарнтирую, что увижу. но, если увижу - свяжусь с вами",
-        "i’ll never share your details.":"",
+        "map":"меню"
     }
 }
 
