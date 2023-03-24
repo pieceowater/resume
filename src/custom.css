@@ -118,23 +118,6 @@ option:hover {
     cursor: none !important;
 }
 
-/*.cursor {*/
-/*    position: fixed;*/
-/*    width: 10px;*/
-/*    height: 10px;*/
-/*    background-color: black;*/
-/*    border-radius: 50%;*/
-/*    transform: translate(-50%, -50%);*/
-/*    z-index: 9999;*/
-/*    pointer-events: none;*/
-/*    transition: transform 0.1s ease-out;*/
-/*    opacity: 0.6;*/
-/*    box-shadow: 2px 3px 10px rgb(139, 135, 135);*/
-/*    !*mix-blend-mode: difference;*!*/
-/*}*/
-
-/*---------------*/
-
 .cursor {
     position: fixed;
     width: 15px;
@@ -172,5 +155,8 @@ a:hover {
     color: #078ff2!important;
 }
 
-
-/*-----------------*/
+@media only screen and (max-width: 768px) {
+    .cursor.visible {
+        opacity: 0;
+    }
+}

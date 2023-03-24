@@ -190,55 +190,6 @@ function showLangAlert() {
 
 showLangAlert()
 
-//
-// // Get the cursor element
-// const cursor = document.querySelector(".cursor");
-//
-// // Add event listeners for mouse movements
-// document.addEventListener("mousemove", e => {
-//     // Move the cursor element to the current mouse position
-//     cursor.style.left = e.clientX + "px";
-//     cursor.style.top = e.clientY + "px";
-// });
-//
-// // Add event listener for mouseover on all elements
-// document.querySelectorAll("*").forEach(elem => {
-//     elem.addEventListener("mouseover", e => {
-//         // Change the cursor element's class to "hover" when hovering over an element
-//         cursor.classList.add("hover");
-//     });
-//     elem.addEventListener("mouseout", e => {
-//         // Remove the "hover" class when no longer hovering over an element
-//         cursor.classList.remove("hover");
-//     });
-// });
-//
-// // Set the default cursor to none
-// document.body.style.cursor = "none";
-
-
-// const cursor = document.querySelector('.cursor');
-//
-// document.addEventListener('mousemove', e => {
-//     cursor.style.left = `${e.clientX}px`;
-//     cursor.style.top = `${e.clientY}px`;
-//     cursor.classList.add('visible');
-//     setTimeout(() => {
-//         cursor.classList.remove('visible');
-//     }, 1000);
-// });
-//
-// document.addEventListener('touchstart', e => {
-//     const touch = e.touches[0];
-//     cursor.style.left = `${touch.clientX}px`;
-//     cursor.style.top = `${touch.clientY}px`;
-//     cursor.classList.add('visible');
-//     setTimeout(() => {
-//         cursor.classList.remove('visible');
-//     }, 1000);
-// });
-
-
 const cursor = document.querySelector('.cursor');
 const clickableElements = document.querySelectorAll('select, .btn, button, a, input[type="submit"], input[type="button"], [role="button"]');
 
