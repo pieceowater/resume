@@ -32783,10 +32783,10 @@ button.section-slack:hover {
 }
 
 .alert-dismissible .close {
-    top: 50%;
+    top: 10%;
     right: 1.5rem;
     padding: 0;
-    transform: translateY(-50%);
+    /*transform: translateY(-50%);*/
     color: #31344b;
     opacity: 1
 }

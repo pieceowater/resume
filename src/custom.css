@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 /* Dark theme */
 /*html[data-theme="dark"] body {*/
 /*    background-color: #333333;*/
@@ -105,4 +109,19 @@ option {
 option:hover {
     background-color: #e2e2e2;
     color: #333;
+}
+
+
+/*alert*/
+
+.lang-alert {
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    z-index: 1;
+    display: none;
+}
+
+.show {
+    display: block !important;
 }

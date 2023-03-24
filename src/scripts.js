@@ -191,3 +191,12 @@ function translatePage(lang = JSON.parse(localStorage.getItem('cnf')).lang || 1)
     })
 }
 translatePage()
+
+function showLangAlert() {
+    if (!localStorage.getItem("notFirstTime")) {
+        localStorage.setItem("notFirstTime", "1");
+        document.getElementById("lang-alert").classList.add("show");
+    }
+}
+
+showLangAlert()
