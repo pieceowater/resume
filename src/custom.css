@@ -113,3 +113,64 @@ option:hover {
 .show {
     display: block !important;
 }
+
+* {
+    cursor: none !important;
+}
+
+/*.cursor {*/
+/*    position: fixed;*/
+/*    width: 10px;*/
+/*    height: 10px;*/
+/*    background-color: black;*/
+/*    border-radius: 50%;*/
+/*    transform: translate(-50%, -50%);*/
+/*    z-index: 9999;*/
+/*    pointer-events: none;*/
+/*    transition: transform 0.1s ease-out;*/
+/*    opacity: 0.6;*/
+/*    box-shadow: 2px 3px 10px rgb(139, 135, 135);*/
+/*    !*mix-blend-mode: difference;*!*/
+/*}*/
+
+/*---------------*/
+
+.cursor {
+    position: fixed;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.50);
+    box-shadow: 2px 3px 10px rgb(139, 135, 135);
+    z-index: 9999;
+    opacity: 0.1;
+    transition: opacity 0.2s ease-in-out;
+    transform: translate(-50%, -50%) scale(0);
+    transform-origin: center;
+    pointer-events: none;
+    user-select: none;
+    touch-action: none;
+    will-change: transform, opacity;
+}
+
+.cursor.visible {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+select:hover,
+.btn:hover,
+button:hover,
+a:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+[role="button"]:hover {
+    transform: scale(1.02);
+}
+
+a:hover {
+    color: #078ff2!important;
+}
+
+
+/*-----------------*/
