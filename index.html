@@ -315,8 +315,8 @@
         fetch('./src/data.json')
             .then(response => response.json())
             .then(data => {
-                const value = data.someData.key;
-                console.log(value); // "value"
+                const value = data;
+                console.log(value);
             })
             .catch(error => console.error(error))
     </script>

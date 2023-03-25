@@ -1,5 +1,361 @@
 {
-  "someData": {
-    "key": "value"
+  "pageTitle": "jr.devops engineer & swift, swiftui ios / javascript, node.js backend - developer — yury mid — pieceowater",
+  "content": {
+    "header": {
+      "logo": "./mid",
+      "links": [
+        {
+          "url": "#hardSkills",
+          "label": {
+            "en": "hard-skills",
+            "ru": "навыки"
+          }
+        },
+        {
+          "url": "#aboutMe",
+          "label": {
+            "en": "personal info",
+            "ru": "личное"
+          }
+        },
+        {
+          "url": "#footer",
+          "label": {
+            "en": "contacts",
+            "ru": "контакты"
+          },
+          "subLinks": [
+            {
+              "url": "https://t.me/yury_mid",
+              "label": {
+                "en": "telegram",
+                "ru": "telegram"
+              },
+              "subLabel": {
+                "en": "recommended",
+                "ru": "рекомендую"
+              },
+              "badge": {
+                "en": "online",
+                "ru": "онлайн"
+              }
+            },
+            {
+              "url": "mailto:yury_mid@icloud.com",
+              "label": {
+                "en": "email",
+                "ru": "почта"
+              },
+              "subLabel": {
+                "en": "really?",
+                "ru": "серьезно?"
+              }
+            }
+          ]
+        }
+      ],
+      "hireMeBtn": {
+        "url": "https://hh.ru/resume/1d83f3e5ff08c23ddc0039ed1f61654e474c42",
+        "label": {
+          "en": "hire me",
+          "ru": "hh"
+        }
+      },
+      "resumeBtn": {
+        "url": "./assets/resume.pdf",
+        "label": {
+          "en": ".pdf",
+          "ru": ".pdf"
+        }
+      }
+    },
+    "body": {
+      "intro": {
+        "heading": {
+          "en": "pieceowater — yury mid",
+          "ru": "pieceowater — yury mid"
+        },
+        "subHeading": {
+          "en": "jr.devops engineer & swift, swiftui ios / javascript, node.js backend - developer",
+          "ru": "jr.devops инженер & swift, swiftui ios / javascript, node.js backend - разработчик"
+        },
+        "githubBtn": {
+          "url": "https://github.com/pieceowater",
+          "label": {
+            "en": "my github",
+            "ru": "мой github"
+          }
+        }
+      },
+      "hardSkills": {
+        "heading": {
+          "en": "hard-skills",
+          "ru": "навыки"
+        },
+        "cards": [
+          {
+            "title": {
+              "en": "devops",
+              "ru": "devops"
+            },
+            "button": {
+              "url": "https://github.com/pieceowater",
+              "label": {
+                "en": "more",
+                "ru": "подробнее"
+              }
+            }
+          },
+          {
+            "title": {
+              "en": "backend",
+              "ru": "backend"
+            },
+            "button": {
+              "url": "https://github.com/pieceowater",
+              "label": {
+                "en": "more",
+                "ru": "подробнее"
+              }
+            }
+          },
+          {
+            "title": {
+              "en": "mobile",
+              "ru": "mobile"
+            },
+            "button": {
+              "url": "https://github.com/pieceowater",
+              "label": {
+                "en": "more",
+                "ru": "подробнее"
+              }
+            }
+          }
+        ],
+        "badges": [
+          {
+            "label": "node.js",
+            "url": ""
+          },
+          {
+            "label": "docker",
+            "url": ""
+          },
+          {
+            "label": "ci/cd",
+            "url": ""
+          },
+          {
+            "label": "linux",
+            "url": ""
+          },
+          {
+            "label": "github actions",
+            "url": ""
+          },
+          {
+            "label": "yaml",
+            "url": ""
+          },
+          {
+            "label": "git",
+            "url": ""
+          },
+          {
+            "label": "bash",
+            "url": ""
+          }
+        ]
+      },
+      "aboutMe": {
+        "heading": {
+          "en": "about me, true story.",
+          "ru": "обо мне"
+        },
+        "articles": [
+          {
+            "paragraph": [
+              {
+                "en": "self-taught. i started with programming in python, php, js. in parallel, i got basic frontend skills.",
+                "ru": "самоучка. начинал с программирования на python, php, js. параллельно получил базовые навыки работы frontend."
+              },
+              {
+                "en": "‣ then i delved into the study of node.js and web work, got carried away with the \"server\" side of web development.",
+                "ru": "далее углубился в изучении node.js и работы web, увлекся \\\"серверной\\\" стороной web-разработки."
+              },
+              {
+                "en": "‣ then, as part of a hobby, i began to study mobile development for ios (swiftui) architectural patterns of applications (mvvm, mvc).",
+                "ru": "затем, в рамках хобби, стал изучать мобильную разработку под ios (swiftui) архитектурные паттерны приложений (mvvm, mvc)."
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "en": "‣ later, there was a need to automate ci/cd and build fault-tolerant systems for deploying the company's web applications. i started studying devops and, later, became the head of the development team.",
+                "ru": "позже появилась необходимость автоматизации ci/cd и построения отказоустойчивых систем для деплоя web-приложений компании. занялся изучением devops и, в последствии, стал руководителем команды разработчиков."
+              }
+            ]
+          }
+        ]
+      },
+      "experience": {
+        "heading": {
+          "en": "experience",
+          "ru": "опыт работы"
+        },
+        "timeline": [
+          {
+            "company": "iceberg group",
+            "dates": {
+              "start": 1622505600,
+              "end": 0
+            },
+            "progress": 95,
+            "info": {
+              "position": {
+                "en": "devops engineer, developer, teamlead",
+                "ru": "devops engineer, developer, teamlead"
+              },
+              "location": {
+                "en": "almaty",
+                "ru": "алматы"
+              },
+              "list": {
+                "label": {
+                  "en": "implementation of devops methodology",
+                  "ru": "внедрение devops методологии"
+                },
+                "items": [
+                  {
+                    "label": {
+                      "en": "project architecture design",
+                      "ru": "проектирование архитектуры проекта"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "building the internal infrastructure of the department and work processes, ci/cd",
+                      "ru": "построение внутренней инфраструктуры отдела и рабочих процессов, ci/cd"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "ensuring the deployment of the company's projects",
+                      "ru": "обеспечение развертывания проектов компании"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "project viability support and monitoring",
+                      "ru": "поддержка и мониторинг жизнеспособности проектов"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "automation of development and deployment",
+                      "ru": "автоматизация разработки и развертывания"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "management and decomposition of employees' work",
+                      "ru": "менеджмент и декомпозиция работы сотрудников"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "footer": [
+      [
+        {
+          "label": {
+            "en": "that's it! thanks for watching!",
+            "ru": "спасибо за внимание!"
+          }
+        },
+        {
+          "label": {
+            "en": "stay in touch with",
+            "ru": "связаться"
+          },
+          "buttons": [
+            {
+              "title": "github",
+              "url": "https://github.com/pieceowater"
+            },
+            {
+              "title": "telegram",
+              "url": "https://t.me/yury_mid"
+            },
+            {
+              "title": "mail",
+              "url": "mailto:yury_mid@icloud.com"
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "language",
+            "ru": "язык"
+          },
+          "options": [
+            {
+              "label": "en",
+              "value": 1
+            },
+            {
+              "label": "ru",
+              "value": 2
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "list": {
+            "label": {
+              "en": "map",
+              "ru": "меню"
+            },
+            "items": [
+              {
+                "url": "#hardSkills",
+                "label": {
+                  "en": "hard-skills",
+                  "ru": "навыки"
+                }
+              },
+              {
+                "url": "#aboutMe",
+                "label": {
+                  "en": "personal info",
+                  "ru": "личное"
+                }
+              },
+              {
+                "url": "https://t.me/yury_mid",
+                "label": {
+                  "en": "contacts",
+                  "ru": "контакты"
+                },
+                "badge": {
+                  "en": "telegram",
+                  "ru": "telegram"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      {
+        "copyright": "mid © pieceowater 2023."
+      }
+    ]
   }
 }
