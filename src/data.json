@@ -64,8 +64,8 @@
       "resumeBtn": {
         "url": "./assets/resume.pdf",
         "label": {
-          "en": ".pdf",
-          "ru": ".pdf"
+          "en": " .pdf",
+          "ru": " .pdf"
         }
       }
     },
@@ -271,91 +271,87 @@
         ]
       }
     },
-    "footer": [
-      [
-        {
-          "label": {
-            "en": "that's it! thanks for watching!",
-            "ru": "спасибо за внимание!"
-          }
-        },
-        {
-          "label": {
-            "en": "stay in touch with",
-            "ru": "связаться"
-          },
-          "buttons": [
-            {
-              "title": "github",
-              "url": "https://github.com/pieceowater"
-            },
-            {
-              "title": "telegram",
-              "url": "https://t.me/yury_mid"
-            },
-            {
-              "title": "mail",
-              "url": "mailto:yury_mid@icloud.com"
-            }
-          ]
-        },
-        {
-          "label": {
-            "en": "language",
-            "ru": "язык"
-          },
-          "options": [
-            {
-              "label": "en",
-              "value": 1
-            },
-            {
-              "label": "ru",
-              "value": 2
-            }
-          ]
+    "footer": {
+      "heading": {
+        "label": {
+          "en": "that's it! thanks for watching!",
+          "ru": "спасибо за внимание!"
         }
-      ],
-      [
-        {
-          "list": {
-            "label": {
-              "en": "map",
-              "ru": "меню"
-            },
-            "items": [
-              {
-                "url": "#hardSkills",
-                "label": {
-                  "en": "hard-skills",
-                  "ru": "навыки"
-                }
-              },
-              {
-                "url": "#aboutMe",
-                "label": {
-                  "en": "personal info",
-                  "ru": "личное"
-                }
-              },
-              {
-                "url": "https://t.me/yury_mid",
-                "label": {
-                  "en": "contacts",
-                  "ru": "контакты"
-                },
-                "badge": {
-                  "en": "telegram",
-                  "ru": "telegram"
-                }
+      },
+      "links": {
+        "label": {
+          "en": "stay in touch with",
+          "ru": "связаться"
+        },
+        "buttons": {
+          "github": {
+            "title": "github",
+            "url": "https://github.com/pieceowater"
+          },
+          "telegram": {
+            "title": "telegram",
+            "url": "https://t.me/yury_mid"
+          },
+          "mail": {
+            "title": "mail",
+            "url": "mailto:yury_mid@icloud.com"
+          }
+        }
+      },
+      "lang": {
+        "label": {
+          "en": "language",
+          "ru": "язык"
+        },
+        "options": [
+          {
+            "label": "en",
+            "value": 1
+          },
+          {
+            "label": "ru",
+            "value": 2
+          }
+        ]
+      },
+      "map": {
+        "list": {
+          "label": {
+            "en": "map",
+            "ru": "меню"
+          },
+          "items": [
+            {
+              "url": "#hardSkills",
+              "label": {
+                "en": "hard-skills",
+                "ru": "навыки"
               }
-            ]
-          }
+            },
+            {
+              "url": "#aboutMe",
+              "label": {
+                "en": "personal info",
+                "ru": "личное"
+              }
+            },
+            {
+              "url": "https://t.me/yury_mid",
+              "label": {
+                "en": "contacts",
+                "ru": "контакты"
+              },
+              "badge": {
+                "en": "telegram",
+                "ru": "telegram"
+              }
+            }
+          ]
         }
-      ],
-      {
+      },
+      "copyright": {
         "copyright": "mid © pieceowater 2023."
       }
-    ]
+    }
   }
 }

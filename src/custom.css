@@ -148,7 +148,7 @@ a:hover,
 input[type="submit"]:hover,
 input[type="button"]:hover,
 [role="button"]:hover {
-    transform: scale(1.02);
+    transform: scale(1.05);
 }
 
 a:hover {
@@ -159,4 +159,9 @@ a:hover {
     .cursor.visible {
         opacity: 0;
     }
+}
+
+.unscaled {
+    scale: 0.9;
+    border: 0;
 }
