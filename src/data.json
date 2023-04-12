@@ -143,6 +143,10 @@
             "url": ""
           },
           {
+            "label": "k8s",
+            "url": ""
+          },
+          {
             "label": "ci/cd",
             "url": ""
           },
@@ -164,6 +168,14 @@
           },
           {
             "label": "bash",
+            "url": ""
+          },
+          {
+            "label": "python",
+            "url": ""
+          },
+          {
+            "label": "swift",
             "url": ""
           }
         ]
