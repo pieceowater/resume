@@ -407,6 +407,18 @@ function footerRender(data) {
         }
     })
     render({
+        element: document.querySelector('[data-content="footerLinksLinkedin"]'),
+        modifiers: {
+            url: data.links.buttons.linkedin.url
+        }
+    })
+    render({
+        element: document.querySelector('[data-content="footerLinksTiktok"]'),
+        modifiers: {
+            url: data.links.buttons.tiktok.url
+        }
+    })
+    render({
         element: document.querySelector('[data-content="footerLinksTelegram"]'),
         modifiers: {
             url: data.links.buttons.telegram.url

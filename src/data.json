@@ -57,15 +57,15 @@
       "hireMeBtn": {
         "url": "https://hh.ru/resume/1d83f3e5ff08c23ddc0039ed1f61654e474c42",
         "label": {
-          "en": "hire me",
+          "en": "hh",
           "ru": "hh"
         }
       },
       "resumeBtn": {
-        "url": "./assets/resume.pdf",
+        "url": "https://www.linkedin.com/in/pieceowater/",
         "label": {
-          "en": " .pdf",
-          "ru": " .pdf"
+          "en": " linkedin",
+          "ru": " linkedin"
         }
       }
     },
@@ -76,8 +76,8 @@
           "ru": "pieceowater — yury mid"
         },
         "subHeading": {
-          "en": "jr.devops engineer & swift, swiftui ios / javascript, node.js backend - developer",
-          "ru": "jr.devops инженер & swift, swiftui ios / javascript, node.js backend - разработчик"
+          "en": "jr.devops engineer & swift, swiftui ios / python, javascript, node.js backend - developer",
+          "ru": "jr.devops инженер & swift, swiftui ios / python, javascript, node.js backend - разработчик"
         },
         "githubBtn": {
           "url": "https://github.com/pieceowater",
@@ -299,6 +299,14 @@
           "github": {
             "title": "github",
             "url": "https://github.com/pieceowater"
+          },
+          "linkedin": {
+            "title": "linkedin",
+            "url": "https://www.linkedin.com/in/pieceowater"
+          },
+          "tiktok": {
+            "title": "tiktok",
+            "url": "https://www.tiktok.com/@yurymid"
           },
           "telegram": {
             "title": "telegram",
