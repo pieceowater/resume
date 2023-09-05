@@ -320,6 +320,7 @@ function bodyAboutRender(data) {
 
     if (data.articles.length > 1) {
         document.querySelector('#showMoreBtn').removeAttribute('style')
+        document.querySelectorAll(`[data-content='bodyAboutMeContent'] p`).forEach((element, index) => index > 0 && (element.style.display === 'none' ? element.style.display = 'block' : element.style.display = 'none'));
     }
 }
 
