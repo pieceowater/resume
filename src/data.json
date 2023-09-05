@@ -41,7 +41,7 @@
               }
             },
             {
-              "url": "mailto:yury_mid@icloud.com",
+              "url": "mailto:pieceowater@gmail.com",
               "label": {
                 "en": "email",
                 "ru": "почта"
@@ -189,24 +189,28 @@
           {
             "paragraph": [
               {
-                "en": "self-taught. i started with programming in python, php, js. in parallel, i got basic frontend skills.",
-                "ru": "самоучка. начинал с программирования на python, php, js. параллельно получил базовые навыки работы frontend."
+                "en": "my main motivation is the desire to broaden my horizons and delve into the areas of python, js backend and/or ios swift development. it's very important for me to participate in projects that will allow me to acquire the necessary knowledge and experience to improve my qualifications. i believe that the employment process is a mutually beneficial cooperation, where i'm ready to invest my efforts and time in exchange for valuable experience and knowledge.",
+                "ru": "моей главной мотивацией является стремление расширять свой кругозор и углубляться в области python, js backend и/или ios swift разработки. мне очень важно участвовать в проектах, которые позволят приобрести необходимые знания и опыт для повышения моей квалификации. я верю, что процесс трудоустройства является взаимовыгодным сотрудничеством, где я готов вкладывать свои усилия и время в обмен на ценный опыт и знания."
               },
               {
-                "en": "‣ then i delved into the study of node.js and web work, got carried away with the \"server\" side of web development.",
-                "ru": "далее углубился в изучении node.js и работы web, увлекся \"серверной\" стороной web-разработки."
+                "en": "another important reason for finding a new job was the desire to develop in a large company, where the corporate ethics of employees has already been successfully developed and work processes have been debugged. in this regard, i am ready to work even at the starting positions of the direction and am happy to openly share my work experience.",
+                "ru": "также важной причиной для поиска новой работы стало желание развиваться в крупной компании, где уже успешно выработана корпоративная этика сотрудников и отлажены рабочие процессы. В связи с этим, готов на работу даже на стартовых позициях направления и рад открыто поделиться своим опытом работы."
               },
               {
-                "en": "‣ then, as part of a hobby, i began to study mobile development for ios (swiftui) architectural patterns of applications (mvvm, mvc).",
-                "ru": "затем, в рамках хобби, стал изучать мобильную разработку под ios (swiftui) архитектурные паттерны приложений (mvvm, mvc)."
-              }
-            ]
-          },
-          {
-            "paragraph": [
+                "en": "having some experience behind me and demonstrating flexibility in the approach to tasks, i'm ready to consider new opportunities in the field of development. i also want to emphasize that i am ready to work remotely and completely in english, as this experience will help me strengthen my language skills and open up new horizons for my career.",
+                "ru": "имея за плечами определенный опыт и демонстрируя гибкость в подходе к задачам, я готов рассмотреть новые возможности в сфере разработки. также хочу подчеркнуть, что я готов работать удаленно и полностью на английском языке, так как этот опыт поможет мне укрепить свои языковые навыки и откроет новые горизонты для моей карьеры."
+              },
               {
-                "en": "‣ later, there was a need to automate ci/cd and build fault-tolerant systems for deploying the company's web applications. i started studying devops and, later, became the head of the development team.",
-                "ru": "позже появилась необходимость автоматизации ci/cd и построения отказоустойчивых систем для деплоя web-приложений компании. занялся изучением devops и, в последствии, стал руководителем команды разработчиков."
+                "en": "my story",
+                "ru": "моя история"
+              },
+              {
+                "en": "- started career as a self-taught, delving into programming in python, php and javascript. step by step i mastered the basics of working with each of these languages.\n- at the same time, he was engaged in the development of skills in the field of frontend, creating basic elements of the user application interface.\n- gradually delved into the study of node.js and further work with web technologies. my interest switched to the \"server\" side of web development, where i consolidated my knowledge in algorithmization and operation of networks, servers.\n- the appearance of free time for hobbies led me to mobile development for ios using swiftui. i have mastered the architectural patterns of applications such as mvvm, which has allowed me to create more complex and efficient applications, which i successfully publish in the app store (details on my website pieceowater.space). also, i started running social networks, tiktok / linkedin.\n- in the course of my work, i came across the need to automate ci/cd processes and create reliable systems for deploying web applications. this became an incentive to study devops practices and build fault-tolerant systems on our k8s cluster.\n- my professional growth and the desire to gain new knowledge and experience have led me to the opportunity to become the head of a development team, where i not only apply technical skills, but also organize effective interaction between employees or other departments to achieve common goals.",
+                "ru": "- начал свой путь как самоучка, углубившись в программирование на python, php и javascript. пошагово осваивал основы работы с каждым из этих языков.\n- в то же время занимался развитием навыков в области фронтенда, создавая базовые элементы интерфейса пользовательских приложений.\n- постепенно углубился в изучение node.js и дальнейшую работу с веб-технологиями. мой интерес переключился на \"серверную\" сторону веб-разработки, где я закреплял свои знания в алгоритмизации и работе сетей, серверов.\n- появление свободного времени на хобби привело меня к мобильной разработке под ios с использованием swiftui. я овладел архитектурными паттернами приложений, такими как mvvm, что позволило мне создавать более сложные и эффективные приложения, которые я успешно публикую в app store (подробности на моем сайте pieceowater.space). также, я стал вести социальные сети, tiktok / linkedin.\n- в процессе работы я сталкивался с потребностью в автоматизации процессов ci/cd и создании надежных систем для деплоя веб-приложений. это стало стимулом для изучения devops практик и построения отказоустойчивых систем на нашем кластере k8s.\n- мой профессиональный рост и стремление получать новые знания и опыт привели меня к возможности стать руководителем команды разработчиков, где я не только применяю технические навыки, но и организовываю эффективное взаимодействие между сотрудниками или другими отделами для достижения общих целей."
+              },
+              {
+                "en": "my dedication to learning and applying new technologies allows me to successfully adapt to diverse challenges and make a significant contribution to projects.",
+                "ru": "моя преданность обучению и применению новых технологий позволяют мне успешно адаптироваться к разнообразным вызовам и вносить существенный вклад в проекты."
               }
             ]
           }
@@ -227,8 +231,8 @@
             "progress": 95,
             "info": {
               "position": {
-                "en": "devops engineer, developer, teamlead",
-                "ru": "devops engineer, developer, teamlead"
+                "en": "product manager, devops engineer, developer, teamlead",
+                "ru": "product manager, devops engineer, developer, teamlead"
               },
               "location": {
                 "en": "almaty",
@@ -314,7 +318,7 @@
           },
           "mail": {
             "title": "mail",
-            "url": "mailto:yury_mid@icloud.com"
+            "url": "mailto:pieceowater@gmail.com"
           }
         }
       },
