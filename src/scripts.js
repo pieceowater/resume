@@ -314,13 +314,13 @@ function bodyAboutRender(data) {
         article.paragraph.forEach( par => {
             art.innerHTML += par[currentLang()] + '<br>'
         })
-
-        if (article.paragraph.length > 1) {
-            document.querySelector('#showMoreBtn').removeAttribute('style')
-        }
-
+        
         contentWrapper.appendChild(art)
     })
+
+    if (data.articles.length > 1) {
+        document.querySelector('#showMoreBtn').removeAttribute('style')
+    }
 }
 
 function renderExpTimeline(data) {
