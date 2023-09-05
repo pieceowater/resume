@@ -199,7 +199,11 @@
               {
                 "en": "having some experience behind me and demonstrating flexibility in the approach to tasks, i'm ready to consider new opportunities in the field of development. i also want to emphasize that i am ready to work remotely and completely in english, as this experience will help me strengthen my language skills and open up new horizons for my career.",
                 "ru": "имея за плечами определенный опыт и демонстрируя гибкость в подходе к задачам, я готов рассмотреть новые возможности в сфере разработки. также хочу подчеркнуть, что я готов работать удаленно и полностью на английском языке, так как этот опыт поможет мне укрепить свои языковые навыки и откроет новые горизонты для моей карьеры."
-              },
+              }
+            ]
+          },
+          {
+            "paragraph": [
               {
                 "en": "my story",
                 "ru": "моя история"
@@ -264,12 +268,6 @@
                   },
                   {
                     "label": {
-                      "en": "project viability support and monitoring",
-                      "ru": "поддержка и мониторинг жизнеспособности проектов"
-                    }
-                  },
-                  {
-                    "label": {
                       "en": "automation of development and deployment",
                       "ru": "автоматизация разработки и развертывания"
                     }
@@ -278,6 +276,36 @@
                     "label": {
                       "en": "management and decomposition of employees' work",
                       "ru": "менеджмент и декомпозиция работы сотрудников"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "search and implementation of optimal development methods",
+                      "ru": "поиск и внедрение оптимальных способов разработки"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "team training in new and effective technologies (gitflow, working with microservices, github projects, patterns)",
+                      "ru": "обучение команды новым и эффективным технологиям (gitflow, работа с микросервисами, github projects, паттерны)"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "backend development on node.js express",
+                      "ru": "разработка backend на node.js express"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "basic administration of the server on windows 2012 r2 and virtual machines on centos 7 (mikrotik, etc., basic cli on linux)",
+                      "ru": "базовое администрирование сервера на windows 2012 r2 и виртуалок на centos 7 (mikrotik и т д, базовые cli на линуксе)"
+                    }
+                  },
+                  {
+                    "label": {
+                      "en": "deploying a k8s cluster on bare-metal",
+                      "ru": "развертывание кластера k8s на bare-metal"
                     }
                   }
                 ]
@@ -290,7 +318,7 @@
     "footer": {
       "heading": {
         "label": {
-          "en": "that's it! thanks for watching!",
+          "en": "that's all! thanks for attention!",
           "ru": "спасибо за внимание!"
         }
       },
