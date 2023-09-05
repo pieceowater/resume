@@ -102,7 +102,7 @@
                     <h2 class="h1 mb-4 translatable" data-content="bodyAboutMeHeading">###</h2>
                     <div data-content="bodyAboutMeContent">
                     </div>
-                    <span id="showMoreBtn" style="display: none" class="nav-link-inner-text">read more...</span>
+                    <span id="showMoreBtn" onclick="document.querySelectorAll(`[data-content='bodyAboutMeContent'] p`).forEach((element, index) => index > 0 &amp;&amp; (element.style.display === 'none' ? element.style.display = 'block' : element.style.display = 'none'));" style="display: none;" class="btn btn-primary nav-link-inner-text">more...</span>
                 </div>
             </div>
         </div>
