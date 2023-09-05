@@ -315,6 +315,9 @@ function bodyAboutRender(data) {
             art.innerHTML += par[currentLang()] + '<br>'
         })
 
+        if (article.paragraph.length > 1) {
+            document.querySelector('#showMoreBtn').removeAttribute('style')
+        }
 
         contentWrapper.appendChild(art)
     })
