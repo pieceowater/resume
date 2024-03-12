@@ -62,7 +62,7 @@
         }
       },
       "resumeBtn": {
-        "url": "https://www.linkedin.com/in/pieceowater/",
+        "url": "./src/mid-devops-cv-curriculum-vitae.pdf",
         "label": {
           "en": " CV",
           "ru": " CV"
