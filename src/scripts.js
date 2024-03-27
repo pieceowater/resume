@@ -292,7 +292,7 @@ function bodyHardSkillsRender(data) {
     data.badges.forEach( badge => {
         let b = document.createElement('div')
             b.setAttribute('class', 'btn btn-primary m-3')
-            b.setAttribute('onclick', () => { window.location.href = badge.url })
+            b.addEventListener('click', () => { window.location.href = badge.url })
             b.innerHTML = `<span class="mr-1"><span class="fas fa-cog"></span></span>
             ${badge.label}`
         badges.appendChild(b)
