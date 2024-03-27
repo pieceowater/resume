@@ -1,5 +1,5 @@
 {
-  "pageTitle": "jr.devops engineer & swift, swiftui ios / javascript, node.js backend - developer — yury mid — pieceowater",
+  "pageTitle": "DevOps Engineer & iOS / Backend - Developer — Yury Mid — pieceowater",
   "content": {
     "header": {
       "logo": "./mid",
@@ -7,48 +7,48 @@
         {
           "url": "#hardSkills",
           "label": {
-            "en": "hard-skills",
+            "en": "Hard-Skills",
             "ru": "навыки"
           }
         },
         {
           "url": "#aboutMe",
           "label": {
-            "en": "personal info",
+            "en": "About",
             "ru": "личное"
           }
         },
         {
           "url": "#footer",
           "label": {
-            "en": "contacts",
+            "en": "Contacts",
             "ru": "контакты"
           },
           "subLinks": [
             {
               "url": "https://t.me/yury_mid",
               "label": {
-                "en": "telegram",
-                "ru": "telegram"
+                "en": "Telegram",
+                "ru": "Telegram"
               },
               "subLabel": {
-                "en": "recommended",
+                "en": "Recommended",
                 "ru": "рекомендую"
               },
               "badge": {
-                "en": "online",
+                "en": "Online",
                 "ru": "онлайн"
               }
             },
             {
               "url": "mailto:pieceowater@gmail.com",
               "label": {
-                "en": "email",
+                "en": "Email",
                 "ru": "почта"
               },
               "subLabel": {
-                "en": "really?",
-                "ru": "серьезно?"
+                "en": "Work",
+                "ru": "рабочая"
               }
             }
           ]
@@ -57,8 +57,8 @@
       "hireMeBtn": {
         "url": "https://hh.ru/resume/1d83f3e5ff08c23ddc0039ed1f61654e474c42",
         "label": {
-          "en": "hh",
-          "ru": "hh"
+          "en": "HeadHunter",
+          "ru": "HeadHunter"
         }
       },
       "resumeBtn": {
@@ -72,62 +72,62 @@
     "body": {
       "intro": {
         "heading": {
-          "en": "pieceowater — yury mid",
-          "ru": "pieceowater — yury mid"
+          "en": "Pieceowater — Yury Mid",
+          "ru": "Pieceowater — Yury Mid"
         },
         "subHeading": {
-          "en": "jr.devops engineer & swift, swiftui ios / python, javascript, node.js backend - developer",
-          "ru": "jr.devops инженер & swift, swiftui ios / python, javascript, node.js backend - разработчик"
+          "en": "DevOps Engineer & iOS / Backend - Developer",
+          "ru": "DevOps Engineer & iOS / Backend - Разработчик"
         },
         "githubBtn": {
           "url": "https://github.com/pieceowater",
           "label": {
-            "en": "my github",
-            "ru": "мой github"
+            "en": "My GitHub",
+            "ru": "Мой GitHub"
           }
         }
       },
       "hardSkills": {
         "heading": {
-          "en": "hard-skills",
+          "en": "Hard-Skills",
           "ru": "навыки"
         },
         "cards": [
           {
             "title": {
-              "en": "devops",
-              "ru": "devops"
+              "en": "DevOps",
+              "ru": "DevOps"
             },
             "button": {
               "url": "https://github.com/pieceowater",
               "label": {
-                "en": "more",
+                "en": "More",
                 "ru": "подробнее"
               }
             }
           },
           {
             "title": {
-              "en": "backend",
-              "ru": "backend"
+              "en": "Backend",
+              "ru": "Backend"
             },
             "button": {
               "url": "https://github.com/pieceowater",
               "label": {
-                "en": "more",
+                "en": "More",
                 "ru": "подробнее"
               }
             }
           },
           {
             "title": {
-              "en": "mobile",
-              "ru": "mobile"
+              "en": "Mobile",
+              "ru": "Mobile"
             },
             "button": {
-              "url": "https://github.com/pieceowater",
+              "url": "https://pieceowater.space",
               "label": {
-                "en": "more",
+                "en": "More",
                 "ru": "подробнее"
               }
             }
@@ -136,69 +136,73 @@
         "badges": [
           {
             "label": "Linux",
-            "url": ""
+            "url": "https://www.linux.org"
           },
           {
             "label": "Docker",
-            "url": ""
+            "url": "https://www.docker.com"
           },
           {
             "label": "CI/CD",
-            "url": "Kubernetes"
+            "url": "https://about.gitlab.com/topics/ci-cd/"
+          },
+          {
+            "label": "Kubernetes",
+            "url": "https://kubernetes.io"
           },
           {
             "label": "AWS",
-            "url": ""
+            "url": "https://aws.amazon.com"
           },
           {
             "label": "Yandex Cloud",
-            "url": ""
+            "url": "https://cloud.yandex.com/en/"
           },
           {
             "label": "Terraform",
-            "url": ""
+            "url": "https://www.terraform.io"
           },
           {
             "label": "Ansible",
-            "url": ""
+            "url": "https://www.ansible.com"
           },
           {
             "label": "Helm",
-            "url": ""
+            "url": "https://helm.sh"
           },
           {
             "label": "Python",
-            "url": ""
+            "url": "https://www.python.org"
           },
           {
             "label": "Bash",
-            "url": ""
+            "url": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
           },
           {
             "label": "Git",
-            "url": ""
+            "url": "https://git-scm.com"
           },
           {
             "label": "SQL",
-            "url": ""
+            "url": "https://en.wikipedia.org/wiki/SQL"
           },
           {
             "label": "JavaScript",
-            "url": ""
+            "url": "https://en.wikipedia.org/wiki/JavaScript"
           },
           {
             "label": "Github Actions",
-            "url": ""
+            "url": "https://github.com/features/actions"
           },
           {
             "label": "Prometheus/Grafana",
-            "url": ""
+            "url": "https://prometheus.io/docs/introduction/overview/"
           }
         ]
       },
       "aboutMe": {
         "heading": {
-          "en": "about me, true story.",
+          "en": "About me",
           "ru": "о себе"
         },
         "articles": [
@@ -221,7 +225,7 @@
           {
             "paragraph": [
               {
-                "en": "my story",
+                "en": "My Story",
                 "ru": "моя история"
               },
               {
@@ -258,90 +262,72 @@
       },
       "experience": {
         "heading": {
-          "en": "experience",
+          "en": "Experience",
           "ru": "опыт работы"
         },
         "timeline": [
           {
-            "company": "iceberg group",
+            "company": "Iceberg Group",
             "dates": {
               "start": 1622505600,
               "end": 0
             },
-            "progress": 95,
+            "progress": 98,
             "info": {
               "position": {
-                "en": "product manager, devops engineer, developer, teamlead",
-                "ru": "product manager, devops engineer, developer, teamlead"
+                "en": "Product Manager, DevOps Engineer",
+                "ru": "Product Manager, DevOps Engineer"
               },
               "location": {
-                "en": "almaty",
-                "ru": "алматы"
+                "en": "Almaty",
+                "ru": "Алматы"
               },
               "list": {
                 "label": {
-                  "en": "implementation of devops methodology",
-                  "ru": "внедрение devops методологии"
+                  "en": "Implementation of DevOps methodology",
+                  "ru": "внедрение DevOps методологии"
                 },
                 "items": [
                   {
                     "label": {
-                      "en": "project architecture design",
+                      "en": "Project Architecture design",
                       "ru": "проектирование архитектуры проекта"
                     }
                   },
                   {
                     "label": {
-                      "en": "building the internal infrastructure of the department and work processes, ci/cd",
+                      "en": "Building the internal infrastructure of the department and work processes, CI/CD",
                       "ru": "построение внутренней инфраструктуры отдела и рабочих процессов, ci/cd"
                     }
                   },
                   {
                     "label": {
-                      "en": "ensuring the deployment of the company's projects",
+                      "en": "Ensuring the deployment of the company's projects",
                       "ru": "обеспечение развертывания проектов компании"
                     }
                   },
                   {
                     "label": {
-                      "en": "automation of development and deployment",
+                      "en": "Automation of development and deployment",
                       "ru": "автоматизация разработки и развертывания"
                     }
                   },
                   {
                     "label": {
-                      "en": "management and decomposition of employees' work",
+                      "en": "Management and decomposition of employees' work",
                       "ru": "менеджмент и декомпозиция работы сотрудников"
                     }
                   },
                   {
                     "label": {
-                      "en": "search and implementation of optimal development methods",
+                      "en": "Search and implementation of optimal development methods",
                       "ru": "поиск и внедрение оптимальных способов разработки"
                     }
                   },
                   {
                     "label": {
-                      "en": "team training in new and effective technologies (gitflow, working with microservices, github projects, patterns)",
-                      "ru": "обучение команды новым и эффективным технологиям (gitflow, работа с микросервисами, github projects, паттерны)"
-                    }
-                  },
-                  {
-                    "label": {
-                      "en": "backend development on node.js express",
-                      "ru": "разработка backend на node.js express"
-                    }
-                  },
-                  {
-                    "label": {
-                      "en": "basic administration of the server on windows 2012 r2 and virtual machines on centos 7 (mikrotik, etc., basic cli on linux)",
-                      "ru": "базовое администрирование сервера на windows 2012 r2 и виртуалок на centos 7 (mikrotik и т д, базовые cli на линуксе)"
-                    }
-                  },
-                  {
-                    "label": {
-                      "en": "deploying a k8s cluster on bare-metal",
-                      "ru": "развертывание кластера k8s на bare-metal"
+                      "en": "IaC with Terraform on Cloud Providers (AWS, YCloud, etc)",
+                      "ru": "IaC с Terraform на Облачных Провайдерах (AWS, YCloud, и тд)"
                     }
                   }
                 ]
@@ -354,50 +340,50 @@
     "footer": {
       "heading": {
         "label": {
-          "en": "that's all! thanks for attention!",
-          "ru": "спасибо за внимание!"
+          "en": "Thanks for attention!",
+          "ru": "Спасибо за внимание!"
         }
       },
       "links": {
         "label": {
-          "en": "stay in touch with",
-          "ru": "связаться"
+          "en": "Stay in touch with",
+          "ru": "Связаться"
         },
         "buttons": {
           "github": {
-            "title": "github",
+            "title": "GitHub",
             "url": "https://github.com/pieceowater"
           },
           "linkedin": {
-            "title": "linkedin",
+            "title": "LinkedIn",
             "url": "https://www.linkedin.com/in/pieceowater"
           },
           "tiktok": {
-            "title": "tiktok",
+            "title": "TikTok",
             "url": "https://www.tiktok.com/@yurymid"
           },
           "telegram": {
-            "title": "telegram",
+            "title": "Telegram",
             "url": "https://t.me/yury_mid"
           },
           "mail": {
-            "title": "mail",
+            "title": "Mail",
             "url": "mailto:pieceowater@gmail.com"
           }
         }
       },
       "lang": {
         "label": {
-          "en": "language",
-          "ru": "язык"
+          "en": "Language",
+          "ru": "Язык"
         },
         "options": [
           {
-            "label": "en",
+            "label": "EN",
             "value": 1
           },
           {
-            "label": "ru",
+            "label": "RU",
             "value": 2
           }
         ]
@@ -405,40 +391,40 @@
       "map": {
         "list": {
           "label": {
-            "en": "map",
-            "ru": "меню"
+            "en": "Map",
+            "ru": "Меню"
           },
           "items": [
             {
               "url": "#hardSkills",
               "label": {
-                "en": "hard-skills",
-                "ru": "навыки"
+                "en": "Hard-Skills",
+                "ru": "Навыки"
               }
             },
             {
               "url": "#aboutMe",
               "label": {
-                "en": "personal info",
-                "ru": "личное"
+                "en": "Personal Info",
+                "ru": "Личное"
               }
             },
             {
               "url": "https://t.me/yury_mid",
               "label": {
-                "en": "contacts",
-                "ru": "контакты"
+                "en": "Contacts",
+                "ru": "Контакты"
               },
               "badge": {
-                "en": "telegram",
-                "ru": "telegram"
+                "en": "Telegram",
+                "ru": "Telegram"
               }
             }
           ]
         }
       },
       "copyright": {
-        "copyright": "mid © pieceowater 2023."
+        "copyright": "mid © pieceowater 2024."
       }
     }
   }
