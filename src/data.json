@@ -2,27 +2,27 @@
   "pageTitle": "DevOps Engineer & iOS / Backend - Developer — Yury Mid — pieceowater",
   "content": {
     "header": {
-      "logo": "./mid",
+      "logo": "./pieceowater",
       "links": [
         {
           "url": "#hardSkills",
           "label": {
             "en": "Hard-Skills",
-            "ru": "навыки"
+            "ru": "Навыки"
           }
         },
         {
           "url": "#aboutMe",
           "label": {
             "en": "About",
-            "ru": "личное"
+            "ru": "Личное"
           }
         },
         {
           "url": "#footer",
           "label": {
             "en": "Contacts",
-            "ru": "контакты"
+            "ru": "Контакты"
           },
           "subLinks": [
             {
@@ -33,22 +33,22 @@
               },
               "subLabel": {
                 "en": "Recommended",
-                "ru": "рекомендую"
+                "ru": "Рекомендую"
               },
               "badge": {
                 "en": "Online",
-                "ru": "онлайн"
+                "ru": "Онлайн"
               }
             },
             {
               "url": "mailto:pieceowater@gmail.com",
               "label": {
                 "en": "Email",
-                "ru": "почта"
+                "ru": "Почта"
               },
               "subLabel": {
                 "en": "Work",
-                "ru": "рабочая"
+                "ru": "Рабочая"
               }
             }
           ]
@@ -90,7 +90,7 @@
       "hardSkills": {
         "heading": {
           "en": "Hard-Skills",
-          "ru": "навыки"
+          "ru": "Навыки"
         },
         "cards": [
           {
@@ -102,7 +102,7 @@
               "url": "https://github.com/pieceowater",
               "label": {
                 "en": "More",
-                "ru": "подробнее"
+                "ru": "Подробнее"
               }
             }
           },
@@ -115,7 +115,7 @@
               "url": "https://github.com/pieceowater",
               "label": {
                 "en": "More",
-                "ru": "подробнее"
+                "ru": "Подробнее"
               }
             }
           },
@@ -128,7 +128,7 @@
               "url": "https://pieceowater.space",
               "label": {
                 "en": "More",
-                "ru": "подробнее"
+                "ru": "Подробнее"
               }
             }
           }
@@ -203,22 +203,18 @@
       "aboutMe": {
         "heading": {
           "en": "About me",
-          "ru": "о себе"
+          "ru": "О себе"
         },
         "articles": [
           {
             "paragraph": [
               {
-                "en": "my main motivation is the desire to broaden my horizons and delve into the areas of python, js backend and/or ios swift development. it's very important for me to participate in projects that will allow me to acquire the necessary knowledge and experience to improve my qualifications. i believe that the employment process is a mutually beneficial cooperation, where i'm ready to invest my efforts and time in exchange for valuable experience and knowledge.",
-                "ru": "моей главной мотивацией является стремление расширять свой кругозор и углубляться в области python, js backend и/или ios swift разработки. мне очень важно участвовать в проектах, которые позволят приобрести необходимые знания и опыт для повышения моей квалификации. я верю, что процесс трудоустройства является взаимовыгодным сотрудничеством, где я готов вкладывать свои усилия и время в обмен на ценный опыт и знания."
+                "en": "My main motivation is the desire to broaden my horizons and delve into the field of DevOps, Backend and/or iOS development. It is very important for me to participate in projects that will allow me to acquire the necessary knowledge and experience to improve my skills. I believe that the employment process is a mutually beneficial cooperation, where I am ready to invest my efforts and time in exchange for valuable experience and knowledge.",
+                "ru": "Моей главной мотивацией является стремление расширять свой кругозор и углубляться в области DevOps, Backend и/или iOS разработки. Мне очень важно участвовать в проектах, которые позволят приобрести необходимые знания и опыт для повышения моей квалификации. Я верю, что процесс трудоустройства является взаимовыгодным сотрудничеством, где я готов вкладывать свои усилия и время в обмен на ценный опыт и знания."
               },
               {
-                "en": "another important reason for finding a new job was the desire to develop in a large company, where the corporate ethics of employees has already been successfully developed and work processes have been debugged. in this regard, i am ready to work even at the starting positions of the direction and am happy to openly share my work experience.",
-                "ru": "также важной причиной для поиска новой работы стало желание развиваться в крупной компании, где уже успешно выработана корпоративная этика сотрудников и отлажены рабочие процессы. В связи с этим, готов на работу даже на стартовых позициях направления и рад открыто поделиться своим опытом работы."
-              },
-              {
-                "en": "having some experience behind me and demonstrating flexibility in the approach to tasks, i'm ready to consider new opportunities in the field of development. i also want to emphasize that i am ready to work remotely and completely in english, as this experience will help me strengthen my language skills and open up new horizons for my career.",
-                "ru": "имея за плечами определенный опыт и демонстрируя гибкость в подходе к задачам, я готов рассмотреть новые возможности в сфере разработки. также хочу подчеркнуть, что я готов работать удаленно и полностью на английском языке, так как этот опыт поможет мне укрепить свои языковые навыки и откроет новые горизонты для моей карьеры."
+                "en": "Having some experience behind me and demonstrating flexibility in the approach to tasks, I am ready to consider new opportunities in the field of development. I also want to emphasize that I am ready to work remotely and completely in English, as this will help me strengthen my language skills and open up new horizons for my career.",
+                "ru": "Имея за плечами определенный опыт и демонстрируя гибкость в подходе к задачам, я готов рассмотреть новые возможности в сфере разработки. Также хочу подчеркнуть, что я готов работать удаленно и полностью на английском языке, так как это поможет мне укрепить свои языковые навыки и откроет новые горизонты для моей карьеры."
               }
             ]
           },
