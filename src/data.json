@@ -225,32 +225,32 @@
                 "ru": "моя история"
               },
               {
-                "en": " - started career as a self-taught, delving into programming in python, php and javascript. step by step i mastered the basics of working with each of these languages.",
-                "ru": " - начал свой путь как самоучка, углубившись в программирование на python, php и javascript. пошагово осваивал основы работы с каждым из этих языков."
+                "en": " - I started my career as a self-taught person, delving into programming in Python, PHP and JavaScript. I learned the basics of working with each of these languages step by step.",
+                "ru": " - Начал свой путь как самоучка, углубившись в программирование на Python, PHP и JavaScript. Пошагово осваивал основы работы с каждым из этих языков."
               },
               {
-                "en": " - at the same time, he was engaged in the development of skills in the field of frontend, creating basic elements of the user application interface.",
-                "ru": " - в то же время занимался развитием навыков в области фронтенда, создавая базовые элементы интерфейса пользовательских приложений."
+                "en": " - At the same time, he was engaged in the development of skills in the field of frontend, creating basic interface elements for user applications.",
+                "ru": " - Параллельно занимался развитием навыков в области фронтенда, создавая базовые элементы интерфейса пользовательских приложений."
               },
               {
-                "en": " - gradually delved into the study of node.js and further work with web technologies. my interest switched to the \"server\" side of web development, where i consolidated my knowledge in algorithmization and operation of networks, servers.",
-                "ru": " - постепенно углубился в изучение node.js и дальнейшую работу с веб-технологиями. мой интерес переключился на \"серверную\" сторону веб-разработки, где я закреплял свои знания в алгоритмизации и работе сетей, серверов."
+                "en": " - I gradually delved into the study of Node.js and further work with web technologies. My interest switched to the \"server\" side of web development, where i consolidated my knowledge in algorithmization and operation of networks, servers.",
+                "ru": " - Постепенно углубился в изучение Node.js и дальнейшую работу с web-технологиями. Мой интерес переключился на \"серверную\" сторону web-разработки, где я закреплял свои знания в алгоритмизации и работе сетей, серверов."
               },
               {
-                "en": " - the appearance of free time for hobbies led me to mobile development for ios using swiftui. i have mastered the architectural patterns of applications such as mvvm, which has allowed me to create more complex and efficient applications, which i successfully publish in the app store (details on my website pieceowater.space). also, i started running social networks, tiktok / linkedin.",
-                "ru": " - появление свободного времени на хобби привело меня к мобильной разработке под ios с использованием swiftui. я овладел архитектурными паттернами приложений, такими как mvvm, что позволило мне создавать более сложные и эффективные приложения, которые я успешно публикую в app store (подробности на моем сайте pieceowater.space). также, я стал вести социальные сети, tiktok / linkedin."
+                "en": " - The appearance of free time for hobbies led me to mobile development for iOS using SwiftUI. i have mastered the architectural patterns of applications such as MVVM, which has allowed me to create more complex and efficient applications, which I successfully publish in the App Store (details on my website pieceowater.space). Also, I started running social networks, TikTok / LinkedIn.",
+                "ru": " - Появление свободного времени на хобби привело меня к мобильной разработке под iOS с использованием SwiftUI. Я овладел архитектурными паттернами приложений, такими как MVVM, что позволило мне создавать более сложные и эффективные приложения, которые я успешно публикую в App Store (подробности на моем сайте pieceowater.space). Также, я стал вести социальные сети, TikTok / LinkedIn."
               },
               {
-                "en": " - in the course of my work, i came across the need to automate ci/cd processes and create reliable systems for deploying web applications. this became an incentive to study devops practices and build fault-tolerant systems on our k8s cluster.",
-                "ru": " - в процессе работы я сталкивался с потребностью в автоматизации процессов ci/cd и создании надежных систем для деплоя веб-приложений. это стало стимулом для изучения devops практик и построения отказоустойчивых систем на нашем кластере k8s."
+                "en": " - In the course of my work, i came across the need to automate CI/CD processes and create reliable systems for deploying web applications. This became an incentive to study devops practices and build fault-tolerant environments.",
+                "ru": " - В процессе работы я сталкивался с потребностью в автоматизации процессов CI/CD и создании надежных систем для деплоя веб-приложений. это стало стимулом для изучения DevOps практик и построения отказоустойчивых окружений."
               },
               {
-                "en": " - my professional growth and the desire to gain new knowledge and experience have led me to the opportunity to become the head of a development team, where i not only apply technical skills, but also organize effective interaction between employees or other departments to achieve common goals.",
-                "ru": " - мой профессиональный рост и стремление получать новые знания и опыт привели меня к возможности стать руководителем команды разработчиков, где я не только применяю технические навыки, но и организовываю эффективное взаимодействие между сотрудниками или другими отделами для достижения общих целей."
+                "en": " - My professional growth and the desire to gain new knowledge and experience have led me to the opportunity to become the head of a development team, where i not only apply technical skills, but also organize effective interaction between employees or other departments to achieve common goals.",
+                "ru": " - Мой профессиональный рост и стремление получать новые знания и опыт привели меня к возможности стать руководителем команды разработчиков, где я не только применяю технические навыки, но и организовываю эффективное взаимодействие между сотрудниками или другими отделами для достижения общих целей."
               },
               {
-                "en": "my dedication to learning and applying new technologies allows me to successfully adapt to diverse challenges and make a significant contribution to projects.",
-                "ru": "моя преданность обучению и применению новых технологий позволяют мне успешно адаптироваться к разнообразным вызовам и вносить существенный вклад в проекты."
+                "en": "My dedication to learning and applying new technologies allows me to successfully adapt to diverse challenges and make a significant contribution to projects.",
+                "ru": "Моя преданность обучению и применению новых технологий позволяют мне успешно адаптироваться к разнообразным вызовам и вносить существенный вклад в проекты."
               }
             ]
           }
