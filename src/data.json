@@ -135,47 +135,63 @@
         ],
         "badges": [
           {
-            "label": "node.js",
+            "label": "Linux",
             "url": ""
           },
           {
-            "label": "docker",
+            "label": "Docker",
             "url": ""
           },
           {
-            "label": "k8s",
+            "label": "CI/CD",
+            "url": "Kubernetes"
+          },
+          {
+            "label": "AWS",
             "url": ""
           },
           {
-            "label": "ci/cd",
+            "label": "Yandex Cloud",
             "url": ""
           },
           {
-            "label": "linux",
+            "label": "Terraform",
             "url": ""
           },
           {
-            "label": "github actions",
+            "label": "Ansible",
             "url": ""
           },
           {
-            "label": "yaml",
+            "label": "Helm",
             "url": ""
           },
           {
-            "label": "git",
+            "label": "Python",
             "url": ""
           },
           {
-            "label": "bash",
+            "label": "Bash",
             "url": ""
           },
           {
-            "label": "python",
+            "label": "Git",
             "url": ""
           },
           {
-            "label": "swift",
+            "label": "SQL",
+            "url": ""
+          },
+          {
+            "label": "JavaScript",
+            "url": ""
+          },
+          {
+            "label": "Github Actions",
+            "url": ""
+          },
+          {
+            "label": "Prometheus/Grafana",
             "url": ""
           }
         ]
