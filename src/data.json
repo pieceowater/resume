@@ -33,7 +33,7 @@
               },
               "subLabel": {
                 "en": "Recommended",
-                "ru": "Рекомендую"
+                "ru": "На связи"
               },
               "badge": {
                 "en": "Online",
@@ -281,43 +281,43 @@
               "list": {
                 "label": {
                   "en": "Implementation of DevOps methodology",
-                  "ru": "внедрение DevOps методологии"
+                  "ru": "Внедрение DevOps методологии"
                 },
                 "items": [
                   {
                     "label": {
                       "en": "Project Architecture design",
-                      "ru": "проектирование архитектуры проекта"
+                      "ru": "Проектирование архитектуры проекта"
                     }
                   },
                   {
                     "label": {
                       "en": "Building the internal infrastructure of the department and work processes, CI/CD",
-                      "ru": "построение внутренней инфраструктуры отдела и рабочих процессов, ci/cd"
+                      "ru": "Построение внутренней инфраструктуры отдела и рабочих процессов, ci/cd"
                     }
                   },
                   {
                     "label": {
                       "en": "Ensuring the deployment of the company's projects",
-                      "ru": "обеспечение развертывания проектов компании"
+                      "ru": "Обеспечение развертывания проектов компании"
                     }
                   },
                   {
                     "label": {
                       "en": "Automation of development and deployment",
-                      "ru": "автоматизация разработки и развертывания"
+                      "ru": "Автоматизация разработки и развертывания"
                     }
                   },
                   {
                     "label": {
                       "en": "Management and decomposition of employees' work",
-                      "ru": "менеджмент и декомпозиция работы сотрудников"
+                      "ru": "Менеджмент и декомпозиция работы сотрудников"
                     }
                   },
                   {
                     "label": {
                       "en": "Search and implementation of optimal development methods",
-                      "ru": "поиск и внедрение оптимальных способов разработки"
+                      "ru": "Поиск и внедрение оптимальных способов разработки"
                     }
                   },
                   {
