@@ -329,6 +329,33 @@
                 ]
               }
             }
+          },
+          {
+            "company": "AllData",
+            "dates": {
+              "start": 1713011468,
+              "end": 0
+            },
+            "progress": 98,
+            "info": {
+              "position": {
+                "en": "Backend Developer",
+                "ru": "Backend Developer"
+              },
+              "location": {
+                "en": "Almaty",
+                "ru": "Алматы"
+              },
+              "list": {
+                "label": {
+                  "en": "Backend development",
+                  "ru": "Backend разработка"
+                },
+                "items": [
+                  
+                ]
+              }
+            }
           }
         ]
       }
