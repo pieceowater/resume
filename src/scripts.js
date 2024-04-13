@@ -330,7 +330,7 @@ function renderExpTimeline(data) {
         let entity = document.createElement('div')
             entity.setAttribute('class', 'row align-items-top justify-content-around m-0')
             entity.innerHTML = `<div class="row align-items-top justify-content-around m-0 ">
-            <div style="width: 35%;">
+            <div style="width: 30%;">
             <h2 class="h2 mb-4"><i>«${item.company}»</i></h2>
             <div class="progress-wrapper">
                 <div class="progress-info">
