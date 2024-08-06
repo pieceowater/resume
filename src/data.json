@@ -283,12 +283,6 @@
                   "en": "Backend development",
                   "ru": "Backend разработка"
                 },
-                {
-                  "label": {
-                    "en": "Project Architecture design",
-                    "ru": "Проектирование архитектуры проекта"
-                  }
-                },
                 "items": [
                   
                 ]
