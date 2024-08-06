@@ -263,6 +263,39 @@
         },
         "timeline": [
           {
+            "company": "Avrora Holding",
+            "dates": {
+              "start": 1713011468,
+              "end": 0
+            },
+            "progress": 18,
+            "info": {
+              "position": {
+                "en": "Backend Developer",
+                "ru": "Backend Developer"
+              },
+              "location": {
+                "en": "Almaty",
+                "ru": "Алматы"
+              },
+              "list": {
+                "label": {
+                  "en": "Backend development",
+                  "ru": "Backend разработка"
+                },
+                {
+                  "label": {
+                    "en": "Project Architecture design",
+                    "ru": "Проектирование архитектуры проекта"
+                  }
+                },
+                "items": [
+                  
+                ]
+              }
+            }
+          },
+          {
             "company": "Iceberg Group",
             "dates": {
               "start": 1622505600,
@@ -329,34 +362,7 @@
                 ]
               }
             }
-          },
-          {
-            "company": "Avrora Holding",
-            "dates": {
-              "start": 1713011468,
-              "end": 0
-            },
-            "progress": 18,
-            "info": {
-              "position": {
-                "en": "Backend Developer",
-                "ru": "Backend Developer"
-              },
-              "location": {
-                "en": "Almaty",
-                "ru": "Алматы"
-              },
-              "list": {
-                "label": {
-                  "en": "Backend development",
-                  "ru": "Backend разработка"
-                },
-                "items": [
-                  
-                ]
-              }
-            }
-          }
+          }          
         ]
       }
     },
